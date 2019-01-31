@@ -1,0 +1,2 @@
+# BMP-COLLAGE
+Working with binary files, I created a bmp collage using C code which will interact with binary data. This is to gain experience with visual image data. Must input on terminal with given File: $ gcc bmp_info.c A3_provided_functions.c A3_solution.c -o bmp_info &amp; test the program with “make test” or: $ ./bmp_info dog.bmp. This will give information of a given image, scale another image and collage images. 
